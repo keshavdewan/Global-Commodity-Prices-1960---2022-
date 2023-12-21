@@ -25,4 +25,4 @@ This project dives deeply into the nuanced world of global commodity prices name
 
 -[Kaggle Data & Inspiration](https://www.kaggle.com/datasets/utkarshx27/select-world-bank-commodity-price-data)
 
--[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzczZGYyNzEtNGFmNC00Mjk0LWI1MTEtZjNiOGUyMTZiNmE4IiwidCI6ImQ1YjdmMzZhLTAyNTktNDMzZS1iYTNkLTZmM2Y3MTFkMDNiYyIsImMiOjh9&pageName=ReportSectionaedc0ac7aaed5fac41e5)
+-[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzczZGYyNzEtNGFmNC00Mjk0LWI1MTEtZjNiOGUyMTZiNmE4IiwidCI6ImQ1YjdmMzZhLTAyNTktNDMzZS1iYTNkLTZmM2Y3MTFkMDNiYyIsImMiOjh9)
