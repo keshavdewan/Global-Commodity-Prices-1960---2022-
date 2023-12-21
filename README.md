@@ -1,6 +1,8 @@
 # Global-Commodity-Prices-1960-2022
 This project dives deeply into the nuanced world of global commodity prices namely Oil, Coffee, Tea and Sugar. This "pink sheet" data from the World Bank paints a vivid picture of economic dynamics. These data are potentially useful for applications on data gathering, inflation adjustments, indexing, cointegration, general economic riff-raff, and more.
 
+![Commodities](https://github.com/keshavdewan/Global-Commodity-Prices-1960---2022-/blob/main/01%20Project%20Management/commodities.png)
+
 # Analysis Criteria
 - EDA on Python Notebook using Pandas, Seaborn, Plotly and Matplotlib
 - Conducted minor Data Wrangling, did time series analysis, hist plot, area charts and pie charts etc.
